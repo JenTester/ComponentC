@@ -4,4 +4,4 @@ def blinarizm(a):
 def blin(a):
     return "Blin: {}".format(a)
 
-blinarizm(3)
+blinarizm(2)
